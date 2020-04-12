@@ -10,6 +10,9 @@ Author: 0x584A
 
 ## update list
 
+* 2020/4/12
+  * 《hackthebox-Remote》 -- HTB writeup
+
 * 2020/3/27
   * 《hackthebox-Resolute》 -- HTB writeup
 
