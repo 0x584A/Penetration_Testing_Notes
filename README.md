@@ -1,4 +1,4 @@
-# Safety_Notes
+# Penetration_Testing_Notes
 
 ```
 建立此项目的目的也是为了分享自己在安全工作的中的经验，仅用于学习交流。
@@ -9,6 +9,9 @@ Author: 0x584A
 ```
 
 ## update list
+
+* 2021/01/11
+  * 《hackthebox-Omni》 -- HTB writeup
 
 * 2020/4/12
   * 《hackthebox-Remote》 -- HTB writeup
