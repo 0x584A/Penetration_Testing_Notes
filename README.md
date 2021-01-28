@@ -10,6 +10,14 @@ Author: 0x584A
 
 ## update list
 
+* 2021/01/28
+  * Hackthebox -【Beginner Track】Blue.pdf
+  * Hackthebox -【Beginner Track】Find The Easy Pass.pdf
+  * Hackthebox -【Beginner Track】Jerry.pdf
+  * Hackthebox -【Beginner Track】Lame Writeup .pdf
+  * Hackthebox -【Beginner Track】Netmon.pdf
+  * Hackthebox -【Intro to Dante】Heist.pdf
+
 * 2021/01/11
   * 《hackthebox-Omni》 -- HTB writeup
 
