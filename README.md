@@ -10,6 +10,10 @@ Author: 0x584A
 
 ## update list
 
+* 2021/02/07
+  * hackthebox-Doctor.pdf
+  * hackthebox-Worker.pdf
+
 * 2021/01/28
   * Hackthebox -【Beginner Track】Blue.pdf
   * Hackthebox -【Beginner Track】Find The Easy Pass.pdf
