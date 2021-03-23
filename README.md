@@ -10,6 +10,9 @@ Author: 0x584A
 
 ## update list
 
+* 2021/03/23
+  * hackthebox-Shocker.pdf
+
 * 2021/02/07
   * hackthebox-Doctor.pdf
   * hackthebox-Worker.pdf
