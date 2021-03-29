@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/03/29
+  * Hackthebox-Granny.pdf
 * 2021/03/23
   * hackthebox-Shocker.pdf
 
