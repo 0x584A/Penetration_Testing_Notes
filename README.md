@@ -13,6 +13,7 @@ Author: 0x584A
 * 2021/03/29
   * Hackthebox-Granny.pdf
   * Hackthebox-Bashed.pdf
+  * Hackthebox-Blocky.pdf
 * 2021/03/23
   * hackthebox-Shocker.pdf
 
