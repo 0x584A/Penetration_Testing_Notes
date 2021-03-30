@@ -10,6 +10,9 @@ Author: 0x584A
 
 ## update list
 
+* 2021/03/30
+  * Hackthebox-Grandpa.pdf
+  * Hackthebox-Optimum.pdf
 * 2021/03/29
   * Hackthebox-Granny.pdf
   * Hackthebox-Bashed.pdf
