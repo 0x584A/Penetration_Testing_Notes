@@ -10,6 +10,9 @@ Author: 0x584A
 
 ## update list
 
+* 2021/04/07
+  * Hackthebox-Devel.pdf
+  * Hackthebox-Mirai.pdf
 * 2021/03/30
   * Hackthebox-Grandpa.pdf
   * Hackthebox-Optimum.pdf
