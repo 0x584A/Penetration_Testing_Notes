@@ -12,6 +12,7 @@ Author: 0x584A
 
 * 2021/04/12
   * Hackthebox-Sense.pdf
+  * Hackthebox-Beep.pdf
 * 2021/04/07
   * Hackthebox-Devel.pdf
   * Hackthebox-Mirai.pdf
