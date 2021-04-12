@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/04/12
+  * Hackthebox-Sense.pdf
 * 2021/04/07
   * Hackthebox-Devel.pdf
   * Hackthebox-Mirai.pdf
