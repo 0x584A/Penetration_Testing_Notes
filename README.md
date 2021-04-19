@@ -10,6 +10,9 @@ Author: 0x584A
 
 ## update list
 
+* 2021/04/19
+  * Hackthebox-Nibbles.pdf
+  * Hackthebox-ServMon.pdf
 * 2021/04/12
   * Hackthebox-Sense.pdf
   * Hackthebox-Beep.pdf
