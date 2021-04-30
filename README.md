@@ -10,8 +10,10 @@ Author: 0x584A
 
 ## update list
 
+* 2021/04/28
+  * Hackthebox-Bank.pdf
 * 2021/04/22
-  Hackthebox-Buff.pdf
+  * Hackthebox-Buff.pdf
 * 2021/04/19
   * Hackthebox-Nibbles.pdf
   * Hackthebox-ServMon.pdf
