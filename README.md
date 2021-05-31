@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/05/31
+    * Hackthebox-Arctic.pdf
 * 2021/04/28
   * Hackthebox-Bank.pdf
 * 2021/04/22
