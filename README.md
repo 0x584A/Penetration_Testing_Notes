@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/06/30
+    * Hackthebox-Valentine.pdf
 * 2021/06/28
     * Hackthebox-Sunday.pdf
 * 2021/05/31
