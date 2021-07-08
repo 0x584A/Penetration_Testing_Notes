@@ -10,6 +10,10 @@ Author: 0x584A
 
 ## update list
 
+* 2021/07/07
+    * Hackthebox-Blunder.pdf
+* 2021/07/03
+    * Hackthebox-Bounty.pdf
 * 2021/07/01
     * Hackthebox-Access.pdf
 * 2021/06/30
