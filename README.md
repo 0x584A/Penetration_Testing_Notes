@@ -10,6 +10,12 @@ Author: 0x584A
 
 ## update list
 
+* 2021/07/12
+  * Hackthebox-Frolic.pdf
+* 2021/07/11
+  * Hackthebox-Irked.pdf
+* 2021/07/08
+  * Hackthebox-Help.pdf
 * 2021/07/07
     * Hackthebox-Blunder.pdf
 * 2021/07/03
