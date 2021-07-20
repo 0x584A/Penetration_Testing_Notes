@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/07/19
+  * Hackthebox-ScriptKiddie.pdf
 * 2021/07/12
   * Hackthebox-Frolic.pdf
 * 2021/07/11
