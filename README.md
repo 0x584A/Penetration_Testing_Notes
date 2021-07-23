@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/07/20
+  * Hackthebox-FriendZone.pdf
 * 2021/07/19
   * Hackthebox-ScriptKiddie.pdf
 * 2021/07/12
@@ -83,6 +85,6 @@ Author: 0x584A
 	* 《hackthebox-SwagShop》 -- HTB writeup
 	* 《Hongrisec_Box1_Writeup》 -- 红日安全靶场环境一 writeup
 	* 《前端代码引发的业务安全问题》 -- 业务安全、渗透测试
-	* 《羊毛党活动的分析及抑制》 -- 业务安全、风控
+	*  记一次促销活动中的“羊毛党”对抗 -- 业务安全、风控
 	* 《xxxSoho CMS 高危漏审计》 -- 代码审计、PHP
 	* 《记一次渗透及MYSQLUDF提权》 -- 渗透测试、MSF、MYSQLUDF
