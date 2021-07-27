@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/07/27
+  * Hackthebox-Forest.pdf
 * 2021/07/20
   * Hackthebox-FriendZone.pdf
 * 2021/07/19
