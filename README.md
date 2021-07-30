@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/07/30
+  * Hackthebox-Active.pdf
 * 2021/07/29
   * Hackthebox-Bastion.pdf
 * 2021/07/27
