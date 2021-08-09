@@ -10,6 +10,9 @@ Author: 0x584A
 
 ## update list
 
+
+* 2121/08/09
+  * Hackthebox-Spectra.pdf
 * 2021/07/30
   * Hackthebox-Active.pdf
 * 2021/07/29
