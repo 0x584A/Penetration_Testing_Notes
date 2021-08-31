@@ -10,6 +10,8 @@ Author: 0x584A
 
 ## update list
 
+* 2021/08/31
+  * Hackthebox-Networked.pdf
 * 2021/08/22
   * Hackthebox-Tabby.pdf
 * 2021/08/18
